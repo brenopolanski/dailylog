@@ -12,4 +12,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-13-2016.md) - Read: `nodejs: htmlparser` / Did: `english class`
+- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-13-2016.md) - Read: `nodejs: htmlparser` / Podcast: `computação e programação` / Did: `english class`
