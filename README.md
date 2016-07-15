@@ -14,4 +14,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-13-2016.md) - Read: `nodejs: htmlparser` / Podcast: `computação e programação` / Did: `english class`
 
-- [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-14-2016.md) - Read: `emulator: escrever emulador de computador` `emulator: chip-8 emulator` / Did: `english meeting (interchange)`
+- [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-14-2016.md) - Read: `emulator: escrever emulador de computador` `emulator: chip-8 emulator` `computation: hexadecimal and bytes` / Did: `english meeting (interchange)`
