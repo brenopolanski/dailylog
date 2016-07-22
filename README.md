@@ -16,16 +16,16 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-14-2016.md) - Read: `emulator: escrever emulador de computador` `emulator: chip-8 emulator` `computation: hexadecimal and bytes` / Did: `english meeting (interchange)`
 
-- Day 15 - Read: `very busy day :\` / Did: `english class`
+- Day 15 - Read: `very busy day :(` / Did: `english class`
 
 - Day 16 - Did: `birthday my girlfriend`
 
 - Day 17 - Did: `relax`
 
-- Day 18 - Read: `very busy day :\` / Did: `english class`
+- Day 18 - Read: `very busy day :(` / Did: `english class`
  
-- Day 19 - Read: `very busy day :\`
+- Day 19 - Read: `very busy day :(`
 
-- Day 20 - Read: `very busy day :\`
+- Day 20 - Read: `very busy day :(`
 
 - [Day 21](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-21-2016.md) - Read: `work` / Did: `english class`
