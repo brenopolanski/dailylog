@@ -24,8 +24,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 18 - Read: `very busy day :\` / Did: `english class`
  
-- Day 19 - Read: `very busy day :\` / Did: `english class`
+- Day 19 - Read: `very busy day :\`
 
-- Day 20 - Read: `very busy day :\` / Did: `english class`
+- Day 20 - Read: `very busy day :\`
 
 - [Day 21](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-21-2016.md) - Read: `work` / Did: `english class`
