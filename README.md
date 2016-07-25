@@ -30,4 +30,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 21](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-21-2016.md) - Read: `work: ganhe dinheiro com desenvolvimento de temas` `emulator: código de operação` `js: typed arrays` / Did: `english class`
 
-- [Day 22](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-22-2016.md) - Read:  / Did: `studied english`
+- [Day 22](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-22-2016.md) - Read: `digital electronics: função lógica XOR` `javascript: bitwise operators` / Did: `studied english`
