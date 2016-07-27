@@ -36,4 +36,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 24 - Did: `relax`
 
-- [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava e foda-se.` / Did: `create open source project - 99vidas lite`
+- [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.`
