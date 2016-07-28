@@ -36,6 +36,6 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 24 - Did: `relax`
 
-- Day 25 - Read: `emulator: how to write an emulator chip-8 interpreter` `emulator: chip-8 official page` `emulator: chip-8 opcode table` `digital systems: registrador` `digital systems: lógica binária` `digital systems: bitwise operation` / Did: `english class`
+- [Day 25](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-25-2016.md) - Read: `emulator: how to write an emulator chip-8 interpreter` `emulator: chip-8 official page` `emulator: chip-8 opcode table` `digital systems: registrador` `digital systems: lógica binária` `digital systems: bitwise operation` / Did: `english class`
 
 - [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.`
