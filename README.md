@@ -16,14 +16,14 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-14-2016.md) - Read: `emulator: escrever emulador de computador` `emulator: chip-8 emulator` `computation: hexadecimal and bytes` / Did: `english meeting (interchange)`
 
-- Day 15 - Read: `very busy day :(` / Did: `english class`
+- Day 15 - Read: `podcast: escalabilidade e emuladores` / Did: `english class`
 
 - Day 16 - Did: `birthday my girlfriend`
 
 - Day 17 - Did: `relax`
 
 - Day 18 - Read: `very busy day :(` / Did: `english class`
- 
+
 - Day 19 - Read: `very busy day :(`
 
 - Day 20 - Read: `very busy day :(`
@@ -35,5 +35,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 23 - Did: `relax`
 
 - Day 24 - Did: `relax`
+
+- Day 25 - Read: `emulator: how to write an emulator chip-8 interpreter` `emulator: chip-8 official page` `emulator: chip-8 opcode table` `digital systems: registrador` `digital systems: lógica binária` `digital systems: bitwise operation` / Did: `english class`
 
 - [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.`
