@@ -12,7 +12,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-13-2016.md) - Read: `nodejs: htmlparser` / Podcast: `computação e programação` / Did: `english class`
+- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-13-2016.md) - Read: `nodejs: htmlparser` / Podcast: `computation: computação e programação` / Did: `english class`
 
 - [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-14-2016.md) - Read: `emulator: escrever emulador de computador` `emulator: chip-8 emulator` `computation: hexadecimal and bytes` / Did: `english meeting (interchange)`
 
@@ -38,4 +38,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 25](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-25-2016.md) - Read: `emulator: how to write an emulator chip-8 interpreter` `emulator: chip-8 official page` `emulator: chip-8 opcode table` `digital systems: registrador` `digital systems: lógica binária` `digital systems: bitwise operation` / Did: `english class`
 
-- [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.`
+- [Day 26](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-26-2016.md) - Read: `data: oltp` `data: armazém de dados` `data: esquema estrela` / Podcast: `interview: zeno rocha`
+
+- [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.` / Podcast: `tech: tecnologias no nubank` `tech: vida de agência`
+
+- Day 28 - Read: `very busy day :(` / Did: `english class`
