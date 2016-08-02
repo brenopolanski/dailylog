@@ -43,3 +43,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/july/07-27-2016.md) - Read: `motivation: decidi não fazer o que eu amava. e foda-se.` / Podcast: `tech: tecnologias no nubank` `tech: vida de agência`
 
 - Day 28 - Read: `very busy day :(` / Did: `english class`
+
+### Aug
+
+- Day 01 - Read: `very busy day :(` / Did: `english class`
+
+- [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-02-2016.md) - Read: `motivation: o que lemann queria ter aprendido antes na sua carreira` / Did: `studied english`
