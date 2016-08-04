@@ -49,3 +49,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 01 - Read: `very busy day :(` / Did: `english class`
 
 - [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-02-2016.md) - Read: `motivation: o que lemann queria ter aprendido antes na sua carreira` / Did: `studied english`
+
+- Day 03 - Read: `very busy day :(` / Did: `studied english`
