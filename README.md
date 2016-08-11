@@ -51,3 +51,19 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-02-2016.md) - Read: `motivation: o que lemann queria ter aprendido antes na sua carreira` / Did: `studied english`
 
 - Day 03 - Read: `very busy day :(` / Did: `studied english`
+
+- Day 04 - Read: `very busy day :(` / Did: `english class`
+
+- Day 05 - Read: `very busy day :(` / Did: `studied english`
+
+- Day 06 - Did: `relax`
+
+- Day 07 - Did: `relax`
+
+- Day 08 - Read: `very busy day :(` / Did: `english class`
+
+- Day 09 - Read: `very busy day :(` / Did: `studied english`
+
+- Day 10 - Read: `very busy day :(` / Did: `studied english`
+
+- Day 11 - Read: `geek: atrás das luzes de stranger things` / Podcast: `tech: progressive web apps` / Did: `english class`
