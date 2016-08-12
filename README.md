@@ -66,4 +66,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 10 - Read: `very busy day :(` / Did: `studied english`
 
-- Day 11 - Read: `geek: atrás das luzes de stranger things` / Podcast: `tech: progressive web apps` / Did: `english class`
+- Day 11 - Read: `geek: atrás das luzes de stranger things` `javascript: call bind e apply` `javascript: fetch api` / Podcast: `tech: progressive web apps` / Did: `english class`
