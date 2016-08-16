@@ -69,3 +69,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 11](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-11-2016.md) - Read: `geek: atrás das luzes de stranger things` `javascript: call bind e apply` `javascript: fetch api` / Podcast: `tech: progressive web apps` / Did: `english class`
 
 - [Day 12](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-12-2016.md) - Read: `geek: teoria de stranger things` / Podcast: `interview: entrevista bruno borges`
+
+- Day 13 - Did: `relax`
+
+- Day 14 - Did: `relax`
+
+- [Day 15](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-15-2016.md) - Read: `motivation: o dia-a-dia de um profissional que aprende` `motivation: 3 práticas de como aprendi muito` `motivation: o que significa ser um "desenvolvedor sênior"?` `productivity: responder email, fazer reunião ou trabalhar?` / Podcast: `geek: 2-pak: aero the acro-bat e zero the kamikaze squirrel`
