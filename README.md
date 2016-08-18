@@ -79,3 +79,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 16 - Read: `very busy day :(`
 
 - Day 17 - Read: `very busy day :(`
+
+- [Day 18](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-18-2016.md) - Watch: `javascript: frameworks: prós e contras por guilherme souza` / Did: `english class`
