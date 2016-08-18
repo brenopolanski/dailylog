@@ -75,3 +75,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 14 - Did: `relax`
 
 - [Day 15](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-15-2016.md) - Read: `motivation: o dia-a-dia de um profissional que aprende` `motivation: 3 práticas de como aprendi muito` `motivation: o que significa ser um "desenvolvedor sênior"?` `productivity: responder email, fazer reunião ou trabalhar?` / Podcast: `geek: 2-pak: aero the acro-bat e zero the kamikaze squirrel`
+
+- Day 16 - Read: `very busy day :(`
+
+- Day 17 - Read: `very busy day :(`
