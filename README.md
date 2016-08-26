@@ -91,3 +91,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 22 - Read: `very busy day :(` / Did: `english class`
 
 - [Day 23](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-23-2016.md) - Read: `css: um guia visual para flexbox` / Podcast: `tech: agilidade` `tech: web components` / Did: `studied english`
+
+- Day 24 - Read: `very busy day :(`
+
+- [Day 25](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-25-2016.md) - Read: `motivation: já se sentiu um impostor? eu também` / Podcast: `tech: vida de freelancer` / Did: `english class`
