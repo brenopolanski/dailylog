@@ -95,3 +95,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 24 - Read: `very busy day :(`
 
 - [Day 25](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-25-2016.md) - Read: `motivation: já se sentiu um impostor? eu também` / Podcast: `tech: vida de freelancer` / Did: `english class`
+
+- Day 26 - Read: `very busy day :(`
+
+- Day 27 - Did: `relax`
+
+- [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-28-2016.md) - Read: `random: mais cedo ou mais tarde, vai dar merda na europa` `random: 5 razões pelas quais os melhores colaboradores se demitem` / Podcast: `geek: bandas de garagem 2` `motivation: mitos do empreendedorismo` / Did: `studied english`
