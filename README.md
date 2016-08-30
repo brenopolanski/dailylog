@@ -100,4 +100,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 27 - Did: `relax`
 
-- [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-28-2016.md) - Read: `random: mais cedo ou mais tarde, vai dar merda na europa` `random: 5 razões pelas quais os melhores colaboradores se demitem` / Podcast: `geek: bandas de garagem 2` `motivation: mitos do empreendedorismo` / Did: `studied english`
+- [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-28-2016.md) - Read: `random: mais cedo ou mais tarde, vai dar merda na europa` `random: 5 razões pelas quais os melhores colaboradores se demitem` / Podcast: `geek: bandas de garagem 2` `motivation: mitos do empreendedorismo` `geek: pokemon go` / Did: `studied english`
+
+- Day 29 - Read: `very busy day :(`
+
+- [Day 30](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-30-2016.md) - Read: `random: bel pesce e o empreendedorismo de palco` / Podcast: `geek: oculus rift e realidade virtual` / Did: `studied english`
