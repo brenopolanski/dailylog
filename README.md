@@ -105,3 +105,11 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 29 - Read: `very busy day :(`
 
 - [Day 30](https://github.com/brenopolanski/dailylog/blob/master/log/2016/august/08-30-2016.md) - Read: `random: bel pesce e o empreendedorismo de palco` / Podcast: `geek: oculus rift e realidade virtual` / Did: `studied english`
+
+- Day 31 - Read: `very busy day :(`
+
+### Sep
+
+- Day 01 - Read: `very busy day :(` / Did: `english class`
+
+- [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-02-2016.md) - Read: `random: watson da ibm cria trailer` / Podcast: `geek: programadores top` / Did: `studied english`
