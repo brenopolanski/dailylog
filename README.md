@@ -113,3 +113,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 01 - Read: `very busy day :(` / Did: `english class`
 
 - [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-02-2016.md) - Read: `random: watson da ibm cria trailer` / Podcast: `geek: programadores top` / Did: `studied english`
+
+- Day 03 - Did: `relax`
+
+- Day 04 - Did: `relax`
+
+- [Day 05](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-05-2016.md) - Podcast: `geek: 4×4: mônica no castelo do dragão, vigilante, black belt e fantasy zone` / Did: `english class`
