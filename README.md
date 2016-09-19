@@ -119,3 +119,6 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 04 - Did: `relax`
 
 - [Day 05](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-05-2016.md) - Podcast: `geek: 4×4: mônica no castelo do dragão, vigilante, black belt e fantasy zone` / Did: `english class`
+
+- [Day 19](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-19-2016.md) - Read: `java: apache karaf` `java: quick start apache karaf` `java: web applications with osgi` / Did: `english class`
+
