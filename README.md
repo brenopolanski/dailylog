@@ -122,3 +122,18 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 19](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-19-2016.md) - Read: `java: apache karaf` `java: quick start apache karaf` `java: web applications with osgi` / Did: `english class`
 
+- Day 20 - Read: `very busy day :(`
+
+- Day 21 - Read: `very busy day :(`
+
+- Day 22 - Read: `very busy day :(`
+
+- Day 23 - Read: `very busy day :(`
+
+- Day 24 - Did: `relax`
+
+- Day 25 - Did: `relax`
+
+- Day 26 - Read: `very busy day :(` / Did: `english class`
+
+- [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-27-2016.md) - Read: `react: introdução ao redux` `react: 5 motivos para usar redux` / Did: `studied english`
