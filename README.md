@@ -137,3 +137,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 26 - Read: `very busy day :(` / Did: `english class`
 
 - [Day 27](https://github.com/brenopolanski/dailylog/blob/master/log/2016/september/09-27-2016.md) - Read: `react: introdução ao redux` `react: 5 motivos para usar redux` / Did: `studied english`
+
+### Oct
+
+- [Day 06](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-06-2016.md) - Podcast: `interview: dne 71 - bruno genaro` / Did: `english class`
+
+- [Day 07](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-07-2016.md) - Podcast: `javascript: dne - angularjs vs reactjs feat codeschool` / Did: `studied english`
