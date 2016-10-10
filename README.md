@@ -143,3 +143,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 06](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-06-2016.md) - Podcast: `interview: dne 71 - bruno genaro` / Did: `english class`
 
 - [Day 07](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-07-2016.md) - Podcast: `javascript: dne - angularjs vs reactjs feat codeschool` / Did: `studied english`
+
+- Day 08 - Did: `relax`
+
+- Day 09 - Did: `relax`
+
+- [Day 10](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-10-2016.md) - Podcast: `geek: trabalho remoto` / Did: `studied english`
