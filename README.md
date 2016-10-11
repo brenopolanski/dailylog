@@ -148,4 +148,6 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 09 - Did: `relax`
 
-- [Day 10](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-10-2016.md) - Podcast: `geek: trabalho remoto` / Did: `studied english`
+- [Day 10](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-10-2016.md) - Podcast: `geek: trabalho remoto`
+
+- [Day 11](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-11-2016.md) - Podcast: `geek: batalha dos crossovers 6` / Did: `studied english`
