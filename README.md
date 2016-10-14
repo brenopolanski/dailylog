@@ -154,4 +154,4 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 12](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-12-2016.md) - Podcast: `interview: dne 73 - entrevista sergio cruz`
 
-- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-13-2016.md) - Podcast: `geek: dne 72 - hackaton`
+- [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-13-2016.md) - Read: `random: imortalidade - novo projeto do google` / Podcast: `geek: dne 72 - hackaton` / Did: `studied english`
