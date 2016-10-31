@@ -157,3 +157,15 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 13](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-13-2016.md) - Read: `random: imortalidade - novo projeto do google` / Podcast: `geek: dne 72 - hackaton`
 
 - [Day 14](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-14-2016.md) - Podcast: `geek: dne 75 - felipe fialho`
+
+- [Day 31](https://github.com/brenopolanski/dailylog/blob/master/log/2016/october/10-31-2016.md) - Read: `random: qual a importância do inglês?` `random: como é ser um bom desenvolvedor em 2016` / Podcast: `geek: dne 77 - pothix` / Did: `english class`
+
+### Nov
+
+- [Day 01](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-01-2016.md) - Read: `javascript: improve your javascript learning with fun experiments` `random: maior ataque ddos da história` / Podcast: `geek: 99vidas 242 – crash da indústria dos videogames de 1983` / Did: `studied english`
+
+- [Day 02](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-02-2016.md) - Read: `random: construindo uma jornada de liderança técnica` `random: ferramentas para freelancers` / Did: `studied english`
+
+- [Day 03](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-03-2016.md) - Read: `react: organizando uma aplicação com react`
+
+- [Day 04](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-04-2016.md) - Read: `javascript: hyperterm agora é hyper.app` `npm: começando com yarn` `acessibilidade: melhorando a acessibilidade de aplicações web com aria` `big data: olap for big data on hadoop` / Did: `studied english`
