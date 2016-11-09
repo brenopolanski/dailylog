@@ -169,3 +169,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 03](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-03-2016.md) - Read: `react: organizando uma aplicação com react`
 
 - [Day 04](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-04-2016.md) - Read: `javascript: hyperterm agora é hyper.app` `npm: começando com yarn` `acessibilidade: melhorando a acessibilidade de aplicações web com aria` `big data: olap for big data on hadoop` / Did: `studied english`
+
+- [Day 09](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-09-2016.md) - Read: `random: 27 ideias de negócios` `random: uma nova editora` `random: musk acredita que maior parte da população viverá de bolsas em pouco tempo` / Did: `studied english`
