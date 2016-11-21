@@ -173,3 +173,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 09](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-09-2016.md) - Read: `random: 27 ideias de negócios` `random: uma nova editora` `random: musk acredita que maior parte da população viverá de bolsas em pouco tempo` / Did: `studied english`
 
 - [Day 16](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-16-2016.md) - Read: `react: criando sua aplicação react em 2 minutos` `random: como saber se você é um gênio` / Did: `studied english`
+
+- [Day 21](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-21-2016.md) - Read: `python: bot telegram - parte 01` / Did: `english class`
