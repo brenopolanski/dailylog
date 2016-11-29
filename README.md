@@ -177,3 +177,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 21](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-21-2016.md) - Read: `python: bot telegram - parte 01` / Did: `english class`
 
 - [Day 23](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-23-2016.md) - Read: `react: organizando uma aplicação com react` / Podcast: `geek: dne 79 - rodrigo branas` / Watch: `event: oncase tv - pcm 2016`
+
+- [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-28-2016.md) - Read: `react: mozilla neo` / Did: `english class`
+
+- [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-28-2016.md) - Read: `git: trabalhando com git hooks` / Podcast: `geek: dne 81 - william bruno` / Did: `studied english`
