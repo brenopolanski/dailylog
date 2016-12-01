@@ -181,3 +181,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 28](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-28-2016.md) - Read: `react: mozilla neo` / Did: `english class`
 
 - [Day 29](https://github.com/brenopolanski/dailylog/blob/master/log/2016/november/11-29-2016.md) - Read: `git: trabalhando com git hooks` / Podcast: `geek: dne 81 - william bruno` / Did: `studied english`
+
+### Dec
+
+- [Day 01](https://github.com/brenopolanski/dailylog/blob/master/log/2016/december/12-01-2016.md) - Read: `javascript: yarn: a evolução do npm` / Did: `english class`
